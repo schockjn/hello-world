@@ -1,3 +1,3 @@
 # hello-world
 
-Tutorial tests.
+Reticulating splines.
